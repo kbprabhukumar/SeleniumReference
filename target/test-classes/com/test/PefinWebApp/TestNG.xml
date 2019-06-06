@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite1">
+
+	<test name="Postive Scenarios - 1">
+    <classes> 
+             <class name="com.test.PefinWebApp.TestNgDriver" />
+     </classes>
+	</test>
+</suite>

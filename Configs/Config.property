@@ -1,0 +1,6 @@
+
+browserName=chrome
+applicaitonUrl=https://www.staging.pefin.com/Plan/Signup/Home
+chromeDriverPath=lib/chromedriver.exe
+ieDriverPath=lib/chromedriver.exe
+testDataFilePath=testdata/TestData.xlsx
